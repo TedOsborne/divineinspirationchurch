@@ -1,0 +1,14 @@
+{
+  "project": "divineinspirationchurch",
+  "source": "divineinspirationchurch.com",
+  "public_files": 224,
+  "public_bytes": 21107605,
+  "large_files": 1,
+  "large_bytes": 43761204,
+  "server_source_files": 0,
+  "server_source_bytes": 0,
+  "large_paths": [
+    "video/sermon-01.mp4"
+  ],
+  "rewritten_files": 1
+}
